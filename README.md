@@ -1,3 +1,3 @@
-Cloud Solutions | 3x AWS Certified | AWS Solutions Architect | AWS Developer | AWS Cloud Practitioner | Information Technology
+DevOps Engineer | 4x AWS Certified | Cloud FinOps
 
 
